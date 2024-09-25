@@ -55,7 +55,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/arvind0251/BABYXMUSIC",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "origin")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # ----------------------------------------------------------------
